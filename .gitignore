@@ -1,0 +1,6 @@
+*.bak
+nyflite/images/*
+nyflite/lang/*
+nyflite/*.exe
+nyflite/*.dll
+nyflite/*.txt
